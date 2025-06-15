@@ -25,6 +25,18 @@ DarkTunnel is a local-to-public URL and directory hosting tool that lets you hos
 
 ---
 
+---
+
+## 📸 Screenshot
+
+> Main Interface Example
+
+![DarkTunnel Screenshot](screenshots/ss.png)
+
+> *(Save your terminal screenshot as `darktunnel-example.png` inside a `screenshots/` folder)*
+
+---
+
 ## ⚙️ Installation (First-Time Setup)
 
 ```bash
