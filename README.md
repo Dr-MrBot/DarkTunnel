@@ -29,11 +29,15 @@ DarkTunnel is a local-to-public URL and directory hosting tool that lets you hos
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DarkTunnel.git
+git clone https://github.com/Dr-MrBot/DarkTunnel
 cd DarkTunnel
+pip install -r requrments.txt
 
 # Make the main script executable
 chmod +x DarkTunnel.sh
 
 # Install required Python package
 pip install pyshorteners
+
+# Run Tool
+./DarkTunnel.sh
