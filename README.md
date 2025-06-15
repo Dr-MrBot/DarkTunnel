@@ -31,7 +31,7 @@ DarkTunnel is a local-to-public URL and directory hosting tool that lets you hos
 
 > Main Interface Example
 
-![DarkTunnel Screenshot](screenshots/ss.png)
+![DarkTunnel Screenshot](ss.png)
 
 > *(Save your terminal screenshot as `darktunnel-example.png` inside a `screenshots/` folder)*
 
